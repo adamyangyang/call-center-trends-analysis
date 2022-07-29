@@ -10,6 +10,11 @@ The goal is to create an easy-to-use dashboard for them to keep track of all the
 
 ## Screenshots
 
+### Date Selection
 ![Date Selection](https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/date-selection.gif)
+
+### Agent Selection
 ![Agent Selection](https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/agent-selection.gif)
+
+### Topic Selection
 ![Topic Selection](https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/topic-selection.gif)
