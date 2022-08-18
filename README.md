@@ -6,7 +6,7 @@ This project involves helping a telecoms company better understand how its call 
 The goal is to create an easy-to-use dashboard for them to keep track of all their required KPIs. In addition, provide any additional insights on emerging trends on the business based on the given data.
 
 ## Data Model
-(https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/call-center-data-model.gif")
+(https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/call-center-data-model.gif)
 
 ## Screenshots
 
