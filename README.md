@@ -1,4 +1,4 @@
-# Call Center Trends Analysis
+# Operations Analytics
 
 ## Overview
 This project involves helping a telecoms company better understand how its call center operations are performing on a daily basis. 
